@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T01:29:40.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="WVthsyGd1Gv0hmMJJ-wB" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T03:36:35.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="_JMk0PH4-QLeAPM3m8Gg" version="14.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1182" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="wUcjlATRvd-0QIwxT94i-14" value="Chat Window Model&lt;br&gt;launches 1&lt;br&gt;&amp;nbsp;user Interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="675" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wUcjlATRvd-0QIwxT94i-15" value="Inheritance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wUcjlATRvd-0QIwxT94i-15" value="Inheritance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="470" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wUcjlATRvd-0QIwxT94i-18" value="UI Actor only update UI&lt;br&gt;No other duties" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;gradientColor=#97d077;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -94,17 +94,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wUcjlATRvd-0QIwxT94i-37" value="Inheritance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wUcjlATRvd-0QIwxT94i-37" value="Inheritance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="735" y="60" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wUcjlATRvd-0QIwxT94i-38" value="Inheritance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wUcjlATRvd-0QIwxT94i-38" value="Inheritance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="60" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wUcjlATRvd-0QIwxT94i-39" value="Call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="180" width="40" height="20" as="geometry" />
+        <mxCell id="wUcjlATRvd-0QIwxT94i-40" value="Read caller enqueuer&lt;br&gt;then call the method&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="160" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wUcjlATRvd-0QIwxT94i-40" value="Call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="180" width="40" height="20" as="geometry" />
+        <mxCell id="wUcjlATRvd-0QIwxT94i-41" value="Read caller enqueuer&lt;br&gt;then call the method&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="160" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
